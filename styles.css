@@ -1,0 +1,33 @@
+*{
+    background-color:darkcyan;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    line-height: 30px;
+    color: green;
+    border-color: white;
+    
+}
+input[type=text]{
+    width: 40%;
+    background-color:aqua;
+
+}
+input[type=password]{
+    width: 40%;
+    background-color: aqua;
+
+}
+input[type=button]{
+    width: 40%;
+    background-color: aqua;
+    color: green;
+
+}
+input[type=button]:hover{
+    width: 40%;
+    background-color:green;
+    color: white;
+
+}
+

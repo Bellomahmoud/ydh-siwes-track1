@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: darkcyan;
+
+}
+body{
+    font-family: sans-serif;
+
+
+}
+li{
+    display: inline;
+    height: 50px;
+
+}
+ul{
+    background-color: aqua;
+    height: 60px;
+}
+ul a{
+    text-decoration: none;
+    color:darkgreen;
+    height: 50px;
+}
+ul a:hover{
+    text-decoration: underline;
+    color:black;
+
+}
