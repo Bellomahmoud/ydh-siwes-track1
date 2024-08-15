@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: darkcyan;
+}
+
+#mahmoud{
+    border-radius: 100px;
+    height: 200px;
+    width: 200px; 
+    
+}
+p,h1{
+    margin-left: 190px;
+}

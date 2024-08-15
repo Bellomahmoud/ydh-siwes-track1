@@ -18,13 +18,13 @@ input[type=password]{
     background-color: aqua;
 
 }
-input[type=button]{
+button{
     width: 40%;
     background-color: aqua;
     color: green;
 
 }
-input[type=button]:hover{
+button:hover{
     width: 40%;
     background-color:green;
     color: white;
